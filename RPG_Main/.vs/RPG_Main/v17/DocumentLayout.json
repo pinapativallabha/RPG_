@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EC1C285-D841-1B73-52A5-86F5ECB673AE}|Assembly-CSharp.csproj|c:\\users\\cse210\\documents\\github\\rpg_\\rpg_main\\assets\\scripts\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC1C285-D841-1B73-52A5-86F5ECB673AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC1C285-D841-1B73-52A5-86F5ECB673AE}|Assembly-CSharp.csproj|c:\\users\\cse210\\documents\\github\\rpg_\\rpg_main\\assets\\scenes\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC1C285-D841-1B73-52A5-86F5ECB673AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC1C285-D841-1B73-52A5-86F5ECB673AE}|Assembly-CSharp.csproj|C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\assets\\ink\\demos\\basic demo\\scripts\\basicinkexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC1C285-D841-1B73-52A5-86F5ECB673AE}|Assembly-CSharp.csproj|solutionrelative:assets\\ink\\demos\\basic demo\\scripts\\basicinkexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Options.cs",
+              "DocumentMoniker": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Assets\\Scripts\\Options.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Options.cs",
+              "ToolTip": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Assets\\Scripts\\Options.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Options.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwE8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:27:21.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Assets\\Scenes\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Assets\\Scenes\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\DialogueManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:50:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicInkExample.cs",
+              "DocumentMoniker": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Assets\\Ink\\Demos\\Basic Demo\\Scripts\\BasicInkExample.cs",
+              "RelativeDocumentMoniker": "Assets\\Ink\\Demos\\Basic Demo\\Scripts\\BasicInkExample.cs",
+              "ToolTip": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Assets\\Ink\\Demos\\Basic Demo\\Scripts\\BasicInkExample.cs",
+              "RelativeToolTip": "Assets\\Ink\\Demos\\Basic Demo\\Scripts\\BasicInkExample.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:32:06.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "XRGrabInteractable.cs",
               "DocumentMoniker": "C:\\Users\\CSE210\\Documents\\GitHub\\RPG_\\RPG_Main\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
@@ -26,8 +76,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Interactables\\XRGrabInteractable.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:27:37.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T09:27:37.009Z"
             }
           ]
         }
