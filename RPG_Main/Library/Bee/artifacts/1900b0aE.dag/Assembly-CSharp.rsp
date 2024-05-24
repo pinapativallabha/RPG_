@@ -408,6 +408,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.28f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Ink/Demos/Basic Demo/Scripts/BasicInkExample.cs"
 "Assets/Ink/Demos/Basic Demo/Scripts/QuitGameOnKeypress.cs"
+"Assets/mountain-race-track/UI_3D/Scripts/CarControl.cs"
 "Assets/mountain-race-track/UI_3D/Scripts/ClawMachine/ClawMachine.cs"
 "Assets/mountain-race-track/UI_3D/Scripts/ClawMachine/FlippyDoor.cs"
 "Assets/mountain-race-track/UI_3D/Scripts/ClawMachine/UfoAbductionForce.cs"
