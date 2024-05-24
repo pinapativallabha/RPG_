@@ -106,6 +106,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\mountain-race-track\UI_3D\Scripts\ClawMachine\FlippyDoor.cs" />
     <Compile Include="Assets\mountain-race-track\UI_3D\Scripts\ClawMachine\ClawMachine.cs" />
+    <Compile Include="Assets\mountain-race-track\UI_3D\Scripts\CarControl.cs" />
     <Compile Include="Assets\mountain-race-track\UI_3D\Scripts\XRLever.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
